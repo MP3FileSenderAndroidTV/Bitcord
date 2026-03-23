@@ -1,10 +1,19 @@
-# Droidcord
+# Bitcord
 A Discord client for old Android <4.x devices. Uses proxy servers for the [HTTP](https://github.com/gtrxAC/discord-j2me/blob/main/proxy) and [gateway](https://github.com/gtrxAC/discord-j2me-server) connection. Currently work-in-progress.
 
 ## How to build
-1. Install Android Studio. I use Android Studio 1.0 though newer versions should work fine.
-2. Clone the repository
-3. Run the project.
+
+# PC Method
+1. Install Android Studio. Android Studio 1.0 should work though newer versions should work fine.
+2. Fork the repository on GitHub.
+3. Compile the APK.
+4. Install on Device.
+
+# Non PC method (Cloud IDE):
+1. Fork the repository on GitHub.
+2. Import the repo on Gitpod or Replit.
+3. Compile the APK.
+4. Install the Device.
 
 ## Status
 ### Working
